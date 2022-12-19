@@ -1,0 +1,8 @@
+﻿  HTMLTable.cpp
+C:\Users\DPSG\source\repos\XMLtoHTML\XMLtoHTML\HTMLTable.cpp(36,35): warning C4018: '<': signed/unsigned mismatch
+  XMLReader.cpp
+  XMLtoHTML.cpp
+C:\Users\DPSG\source\repos\XMLtoHTML\XMLtoHTML\XMLtoHTML.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\DPSG\source\repos\XMLtoHTML\XMLtoHTML\HTMLTable.cpp(73): warning C4715: 'operator<<': not all control paths return a value
+  XMLtoHTML.vcxproj -> C:\Users\DPSG\source\repos\XMLtoHTML\Debug\XMLtoHTML.exe
